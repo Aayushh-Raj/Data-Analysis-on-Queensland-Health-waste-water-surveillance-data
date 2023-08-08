@@ -22,7 +22,7 @@ infection. It becomes very important to share my work with the concerned authori
 * Public Health Authority (Queensland govt.)
 * People associated with wastewater research work
 * People working for media house in Queensland
-  
+ll
 The problem discovered needs to be addressed to them along with the appropriate analysis so that timely measures 
 are taken to mitigate the spread of the disease. Also, to check the list of suburbs serviced by the wastewater plants, 
 the link is shared below.
