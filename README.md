@@ -26,4 +26,28 @@ infection. It becomes very important to share my work with the concerned authori
 The problem discovered needs to be addressed to them along with the appropriate analysis so that timely measures are taken to mitigate the spread of the disease. Also, to check the list of suburbs serviced by the wastewater plants, the link is shared below.   
 [Queensland Wastewater surveillance data](https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/current-status/wastewater)
 
+### INTRODUCTION:
+To understand the full extent of the COVID-19 pandemic is still considered as an ongoing challenge for many health 
+officials across the globe. Monitoring sewage for traces of pathogen enables effective surveillance of entire 
+communities, based on the experience with other viral diseases. It helps in providing a sensitive signal to detect the 
+pathogen present in the population, and if the transmission is increasing. Many researchers around the world are 
+using wastewater data, over the data collected from epidemiological indicator or diagnostic test results, for
+calculating the prevalence. Study says the novel corona virus (SARS-CoV-2) has already been detected in wastewater, 
+and wastewater monitoring could be a powerful tool in generating high-resolution dataset from sewage sludge and 
+tracking the spread of COVID-19.
+Advantages of wastewater monitoring approach include:
+* The approach effectively records the increase or decline of COVID-19 cases in a medium sized region.
+* Collects high-resolution data from people who lack access to healthcare.
+* A cost-effective approach to survey the change in rate of transmission in entire communities.
+* This approach can reveal infection dynamics earlier than diagnostic testing, producing approximately a real 
+time information on disease prevalence.
+
+### DATA AVAILABILITY AND DESCRIPTION:
+Data used in my analysis is available in the official website page of Queensland government under the open data 
+portal section. The data provided in that site has the record of sample collection done over a period of 6-months (in 
+the latter half of the year) in 2020. The link for the same is shared below,  
+[Queensland wastewater surveillance data for SARS-CoV-2 in 2020](https://www.data.qld.gov.au/dataset/queensland-wastewater-surveillance-for-sars-cov-2/resource/0e7a7d67-435c-4d24-9e6f-23c28a6a8cff)  
+The wastewater surveillance data has got 727 entries of sampling date and all the corresponding entries for Site, 
+Result, Site population and Notes columns.  
+![Metadata](image.jpg)
 
