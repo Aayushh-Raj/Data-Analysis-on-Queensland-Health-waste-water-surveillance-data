@@ -115,17 +115,29 @@ date.
 ![Analysis-2.1-Outcomes](Datas/Analysis2.1Outcome.png)  
 ![Analysis-2.2-Outcomes](Datas/Analysis2.2Outcome.png)   
 ![Analysis-2.3-Outcomes](Datas/Analysis2.3Outcome.png)   
-![Analysis-2.4-Outcomes](Datas/Analysis2.4Outcome.png)   
+![Analysis-2.4-Outcomes](Datas/Analysis2.4Outcome.png)  
 
 
-
+     
 ##### *Analysis 3 outcomes: -*
 ![Analysis-3-Outcomes](Datas/Analysis3Outcome.png)   
 
 Results observed from 3rd analysis showed a positive relation between the number of samples collected and 
 detected samples. The correlation between the 2 comes out to be above 50% which means there is a moderately 
 high correlation between the 2 variables. Also one can see, the highest number of sample collection (247) was done 
-in the month of December and 29 samples detected the genetic material. 
+in the month of December and 29 samples detected the genetic material.   
+
+### CONCLUSION:  
+Monitoring wastewater plant for the genetic material SARS-CoV-2 could provide a vital tool to detect new 
+outbreak or spread rate of COVID-19 for nearby suburbs in near-real time. However, much more research 
+is required to understand how SARS-CoV-2 detected in wastewater corresponds to COVID-19 
+spread/transmission. An early detection of possible spread of infection would provide an aid to the state’s 
+medical health authority to take precautionary measures to curb the spread. Government can timely 
+announce pandemic protocols in that particular region for the containment of the virus and mitigating the 
+social economic consequences of extended lockdowns.
+
+### REFERENCES:  
+
 
 
 
