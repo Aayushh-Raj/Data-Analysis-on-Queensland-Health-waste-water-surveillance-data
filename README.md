@@ -70,7 +70,41 @@ samples collected from the period July till December in 2020 indicates associate
 those wastewater treatment plants) are potentially at a higher risk of infection spread and this should be reported to 
 the concerned stakeholders.
 - It was found that there were 7 plants that had detected the COVID-19 pathogen in the collected samples for more 
-than 5 times in a 6-month period.  
+than 5 times in a 6-month period.
+
+![Sample-Collect/Detect-Count](Sample-CollectDetect-Count.png)  
+
+##### *Conclusion drawn from my 1st analysis:*  
+* The total detects count from all the above plant sites is 54 which constitute approximately 50% of the total 
+number of samples detected in all the sites. 
+* This gives a strong evidence for my assumption of selecting sites that has been reporting the detection for 
+more than 5 times in the collected samples in a specified duration.
+I went further with the exploration on those 7 plant sites to see on which date did the collected samples from each 
+plant site detected the presence of pathogen in a given period of time. The detailed results/outcomes for this 
+exploratory analysis have been explained intensively, in the result section of the report, under ‘Analysis 2 outcomes’. 
+I would like to draw some conclusions.
+
+##### *Conclusion drawn from my 2nd analysis:*  
+* All the 7 plant sites detected the genetic material in the month of July (starting month of collecting the 
+samples) making all the suburbs linked with the site as an area of concern.
+* More interestingly in the month of December 2020 it was found that many among the 7 sites reported 
+comparatively higher number of detections of the pathogen of the virus. 
+* The plant site located in Crains North showed an alarming trend. It didn’t detect the virus genetic material 
+from the samples collected from July till October; however, there was sharp rise seen in the count of 
+detection from the samples collected in the month of November and December.
+
+While I was examining my analyzed data exclusively for the plant sites showing higher count for the detection of the 
+COVID-19 pathogens, I did notice a pattern between the samples being collected and samples that detected the 
+genetic material. So, I further explored the potential relationship between the 2 for all the 39 wastewater treatment 
+plants. The results of this analysis have been explained in the result section of this report, under ‘Analysis 3 
+outcomes’.  
+
+##### *Conclusion drawn from 3rd analysis:* 
+The analysis showed a moderately high positive relationship between the samples that were detected and the 
+number of samples that were collected. This indicated higher the number of samples collected better is the analysis 
+for the problem.
+
+
 
 
 
