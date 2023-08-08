@@ -102,7 +102,34 @@ outcomes’.
 ##### *Conclusion drawn from 3rd analysis:* 
 The analysis showed a moderately high positive relationship between the samples that were detected and the 
 number of samples that were collected. This indicated higher the number of samples collected better is the analysis 
-for the problem.
+for the problem.  
+
+### RESULTS OF MY DESCRIPTIVE ANALYSIS:   
+
+##### *Analysis 1 outcomes: -*    
+![Analysis-1-Outcomes](Datas/Analysis1Outcome.png)  
+
+##### *Analysis 2 outcomes: -*   
+Results observed for the 2nd analysis shows the trend of detection count in each month for top 7 sites along with the 
+date.  
+![Analysis-2.1-Outcomes](Datas/Analysis2.1Outcome.png)  
+![Analysis-2.2-Outcomes](Datas/Analysis2.2Outcome.png)   
+![Analysis-2.3-Outcomes](Datas/Analysis2.3Outcome.png)   
+![Analysis-2.4-Outcomes](Datas/Analysis2.4Outcome.png)   
+
+##### *Analysis 3 outcomes: -*
+![Analysis-3-Outcomes](Datas/Analysis3Outcome.png)   
+
+Results observed from 3rd analysis showed a positive relation between the number of samples collected and 
+detected samples. The correlation between the 2 comes out to be above 50% which means there is a moderately 
+high correlation between the 2 variables. Also one can see, the highest number of sample collection (247) was done 
+in the month of December and 29 samples detected the genetic material. 
+
+
+
+
+
+
 
 
 
