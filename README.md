@@ -49,5 +49,28 @@ the latter half of the year) in 2020. The link for the same is shared below,
 [Queensland wastewater surveillance data for SARS-CoV-2 in 2020](https://www.data.qld.gov.au/dataset/queensland-wastewater-surveillance-for-sars-cov-2/resource/0e7a7d67-435c-4d24-9e6f-23c28a6a8cff)  
 The wastewater surveillance data has got 727 entries of sampling date and all the corresponding entries for Site, 
 Result, Site population and Notes columns.  
-![Metadata](Datas/metadata.png)
+![Metadata](Datas/metadata.png)  
+
+### DESCRIPTIVE ANALYSIS OF THE WASTEWATER SURVEILLENCE DATA:  
+After importing the wastewater data from Queensland government server, the first step that I did was cleaning and 
+preparing the original dataset in order to remove any erroneous entries or any missing data. After completing the
+pre-processing (only data cleaning part), I got a very good quality of data to begin with my analysis.
+Since my key question is “Which suburbs in Queensland state are potentially at a higher risk of having COVID-19 
+transmission spread?”, the first thing that I did was to see how many wastewater treatment plant sites are there 
+within the state. It comes out to be 39. 
+Also, I was interested in knowing how many samples were collected in total from every plant site along with the total 
+samples detecting the genetic material. So, altogether 712 number of samples were collected from all the plant sites
+and out of it 110 detected the pathogen for a duration of 6 months in 2020 (latter half). Outcomes for this analysis 
+have been explained in result section of this report as ‘Analysis 1 outcome’ which includes month-wise record.
+The next thing I did was to find all those wastewater treatment plant that has been frequently detecting the COVID19 pathogen from the samples collected. Samples collected are basically the sewage sludge which is further 
+investigated for the presence of the genetic material of COVID-19. I had assumed prior investigating this,  
+##### *My Assumptions*
+- The wastewater plant site that has reported SARS-CoV-2 genetic material detection for more than 5 times for the 
+samples collected from the period July till December in 2020 indicates associated suburbs (that are being serviced by 
+those wastewater treatment plants) are potentially at a higher risk of infection spread and this should be reported to 
+the concerned stakeholders.
+- It was found that there were 7 plants that had detected the COVID-19 pathogen in the collected samples for more 
+than 5 times in a 6-month period.  
+
+
 
