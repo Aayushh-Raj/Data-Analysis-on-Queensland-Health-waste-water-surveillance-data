@@ -72,7 +72,7 @@ the concerned stakeholders.
 - It was found that there were 7 plants that had detected the COVID-19 pathogen in the collected samples for more 
 than 5 times in a 6-month period.
 
-![Sample-Collect/Detect-Count](Sample-CollectDetect-Count.png)  
+![Sample-Collect/Detect-Count](Datas/Sample-CollectDetect-Count.png)  
 
 ##### *Conclusion drawn from my 1st analysis:*  
 * The total detects count from all the above plant sites is 54 which constitute approximately 50% of the total 
