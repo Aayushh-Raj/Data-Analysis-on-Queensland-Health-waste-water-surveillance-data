@@ -136,7 +136,7 @@ medical health authority to take precautionary measures to curb the spread. Gove
 announce pandemic protocols in that particular region for the containment of the virus and mitigating the 
 social economic consequences of extended lockdowns.
 
-### REFERENCES:  
+
 
 
 
